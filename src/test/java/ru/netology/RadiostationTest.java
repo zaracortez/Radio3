@@ -188,7 +188,7 @@ public class RadiostationTest {
     }
 
     @Test
-    public void volumeBelowMax() {
+    public void buttonVolumeBelowMax() {
         Radiostation radiostation = new Radiostation();
         radiostation.setCurrentVolume(100);
         radiostation.increaseVolume();
@@ -201,9 +201,9 @@ public class RadiostationTest {
     @Test
     public void buttonPrevVolume() {
         Radiostation radiostation = new Radiostation();
-        radiostation.setCurrentVolume(5);
+        radiostation.setCurrentVolume(4);
         radiostation.belowVolumeToMax();
-        int expected = 4;
+        int expected = 3;
         int actual = radiostation.getCurrentVolume();
         Assertions.assertEquals(expected, actual);
     }
