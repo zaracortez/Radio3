@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fe2121e-b812-40ca-aa85-73098f2bd1a9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4fe2121e-b812-40ca-aa85-73098f2bd1a9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +48,23 @@
       <command value="mvn clean verify" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.Radio3Test.ShouldDecreaseVolumeMiddle">
+    <configuration name="Radio3Test.ShouldDecreaseVolumeMiddle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Radio3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.Radio3Test" />
+      <option name="METHOD_NAME" value="ShouldDecreaseVolumeMiddle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RadiostationTest.buttonPrevVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Radio3" />
       <extension name="coverage">
@@ -69,6 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Radio3Test.ShouldDecreaseVolumeMiddle" />
         <item itemvalue="JUnit.RadiostationTest.buttonPrevVolume" />
       </list>
     </recent_temporary>

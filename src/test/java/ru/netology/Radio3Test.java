@@ -238,9 +238,9 @@ public class Radio3Test {
     @Test
     public void ShouldDecreaseVolumeMiddle() {
         Radio3 radio = new Radio3();
-        radio.setCurrentVolume(5);
+        radio.setCurrentVolume(4);
         radio.decreaseVolume();
-        int expected = 4;
+        int expected = 3;
         int actual = radio.getCurrentVolume();
 
         Assertions.assertEquals(expected, actual);
