@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fe2121e-b812-40ca-aa85-73098f2bd1a9" name="Changes" comment="" />
+    <list default="true" id="4fe2121e-b812-40ca-aa85-73098f2bd1a9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/Radio3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/Radio3Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_directory_selection": "C:/Homework/Radio3/src/test/java",
-    "last_opened_file_path": "C:/Homework/manager"
+    "last_opened_file_path": "C:/Homework/Radio3"
   }
 }]]></component>
   <component name="RunAnythingCache">
